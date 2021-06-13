@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Shark attack
+.DS_Store
+attacks.csv
