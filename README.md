@@ -48,36 +48,36 @@ Por último mencionar que para alcanzar los resultados se han empleado diversos 
 # Resultados 🤔
 *Este análisis se pretende determinar las variables mencionadas anteriormente para la celebración de "Iron Water". Para más gráficas véase 2. Data_visualization.*
 
-## *Tendencia de los últimos años* 📆
+### *Tendencia de los últimos años* 📆
 
 La tendencia en los últimos años tal y como se muestra en la gráfica es bastante altiva aunque si que se produce un descendo en el año 2000, ello se puede explicar por el aumento de la población que obliga a los tiburones, a desplazarse a habitats menos habitadas por el ser humano; además de la práctica de actividades como la caza furtiva o el aumento de la contaminación en mares y océanos. Por otro lado el aumento que se produce desde 1950 hasta el año 2000 puede ser causado también por la aparición de metodologías y herramientas tecnológicas más precisas y que facilitan la medición de los ataques producidos, registrando por tanto un mayor número que en 1850.
 
 En cualquiera de los casos para IronWater no supone ningún impedimento ya que el evento garantiza la seguridad de todos sus participantes.
 
-## *¿Quién podrá asistir al evento?* 👫🏻
+### *¿Quién podrá asistir al evento?* 👫🏻
 
 ![Sexo](https://user-images.githubusercontent.com/64830147/121910391-19816700-cd2f-11eb-8410-3edc51adab8d.png)
 ![Edad](https://user-images.githubusercontent.com/64830147/121910593-46357e80-cd2f-11eb-9b07-54130b41e341.png)
 
 La competeción será para mujeres (ya que tienen menor probabiblidad de ser atacadas mortalmente) entre los 25 y 40 años (que es cuando la mortalidad y los ataques disminuyen).
 
-## *¿Dónde se celebrá el evento?* 🌏
+### *¿Dónde se celebrá el evento?* 🌏
 
 ![País](https://user-images.githubusercontent.com/64830147/121911263-e9869380-cd2f-11eb-8936-8e6a7fe9b5b1.png)
 
 El evento tendrá lugar en Indonesia
 
-## *¿Cuándo? ¿Mes? ¿Hora?* 🕔
+### *¿Cuándo? ¿Mes? ¿Hora?* 🕔
 
 ![Mes](https://user-images.githubusercontent.com/64830147/121911701-47b37680-cd30-11eb-9bdc-443cdbc24e0c.png)
 ![Hora](https://user-images.githubusercontent.com/64830147/121911802-5bf77380-cd30-11eb-87d4-f65d7498052d.png)
 
 Se pretende celebrar en un mes que meramente hago calor y buen tiempo para que se puedan disfrutar y realizar las 3 actividades propuestas. Por ello se propone el mes de Mayo que no presenta un gran grado de mortalidad o número de accidentes. En cuanto a las horas, el campeonato quedará dividido en dos por la mañana se realizarán las actividad de pesca en horario de 7:00 a 10:00 y por la tarde las dos actividades restantes: surf y natación entre las 18:00 - 23:00.
 
-## *Seguridad de las actividades* 🏄🏻‍♀️
+### *Seguridad de las actividades* 🏄🏻‍♀️
 Tras el estudio se ha determinado que la actividad más segura es la pesca en lo que respecta al surf es donde se produce un mayor número de accidentes seguido de la natación. Sin embargo podríamos considerar que la natación es mucho más peligrosa ya que el índice de la letalidad es bastante más alto que en comparación con el surf.
 
  Esto se ha tenido en cuenta a la hora de establecer el horario de las actividades.
 
-## *Recopilación de resultados* 🦈
+### *Recopilación de resultados* 🦈
 ![Resultados](https://user-images.githubusercontent.com/64830147/121913342-9a416280-cd31-11eb-9a89-d23968e94b88.png)
